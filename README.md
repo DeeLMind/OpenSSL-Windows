@@ -1,2 +1,2 @@
 # OpenSSL-Windows
-OpenSSL On Windows (EXE/DLL)
+OpenSSL On Windows 10 (EXE/DLL)
